@@ -1,4 +1,4 @@
-# 
+# Actualizado SQL Server Management Studio herramientas para Mac OS | Nativo SQL Server Management Studio herramientas para PC Windows. Con resaltado de sintaxis y pruebas automatizadas — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
